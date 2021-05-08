@@ -1,89 +1,86 @@
-{
-	"_linkImages": "",
-	"jornadas": [
-		{
-			"image": "corderoJornada.png",
-			"date": {
-				"init": "2020-1-21",
-				"end": "2020-2-26"
-			},
-			"name": {
-				"es": "Cordero Lechal",
-				"en": "Suckling Lamb",
-				"de": "Spanferkel-Lamm",
-				"it": "Agnello da latte",
-				"fr": "Agneau de lait"
-			}
+[
+	{
+		"image": "corderoJornada.png",
+		"date": {
+			"init": "2020-1-21",
+			"end": "2020-2-26"
 		},
-		{
-			"image": "cocidoJornada.png",
-			"date": {
-				"init": "2020-8-11",
-				"end": "2020-9-12"
-			},
-			"name": {
-				"es": "Cocido",
-				"en": "Cocido",
-				"de": "Cocido",
-				"it": "Cocido",
-				"fr": "Cocido"
-			}
-		},
-		{
-			"image": "bogavanteJornada.png",
-			"date": {
-				"init": "2020-1-13",
-				"end": "2020-2-25"
-			},
-			"name": {
-				"es": "Bogavante",
-				"en": "Lobster",
-				"de": "Hummer",
-				"it": "Aragosta",
-				"fr": "Homard"
-			}
-		},
-		{
-			"image": "chuletonJornada.png",
-			"date": {
-				"init": "2020-3-3",
-				"end": "2020-4-25"
-			},
-			"name": {
-				"es": "Chuletón",
-				"en": "Steak",
-				"de": "Steak",
-				"it": "Bistecca",
-				"fr": "Steak"
-			}
-		},
-		{
-			"image": "cochinilloJornada.png",
-			"date": {
-				"init": "2020-9-22",
-				"end": "2020-10-28"
-			},
-			"name": {
-				"es": "Cochinillo",
-				"en": "Piglet",
-				"de": "Ferkel",
-				"it": "Bistecca",
-				"fr": "Porcellino"
-			}
-		},
-		{
-			"image": "belenJornada.png",
-			"date": {
-				"init": "2020-11-22",
-				"end": "2020-12-31"
-			},
-			"name": {
-				"es": "Belén",
-				"en": "Pigle",
-				"de": "Bethlehm",
-				"it": "Betlemme",
-				"fr": "Bethlée"
-			}
+		"name": {
+			"es": "Cordero Lechal",
+			"en": "Suckling Lamb",
+			"de": "Spanferkel-Lamm",
+			"it": "Agnello da latte",
+			"fr": "Agneau de lait"
 		}
-	]
-}
+	},
+	{
+		"image": "cocidoJornada.png",
+		"date": {
+			"init": "2020-8-11",
+			"end": "2020-9-12"
+		},
+		"name": {
+			"es": "Cocido",
+			"en": "Cocido",
+			"de": "Cocido",
+			"it": "Cocido",
+			"fr": "Cocido"
+		}
+	},
+	{
+		"image": "bogavanteJornada.png",
+		"date": {
+			"init": "2020-1-13",
+			"end": "2020-2-25"
+		},
+		"name": {
+			"es": "Bogavante",
+			"en": "Lobster",
+			"de": "Hummer",
+			"it": "Aragosta",
+			"fr": "Homard"
+		}
+	},
+	{
+		"image": "chuletonJornada.png",
+		"date": {
+			"init": "2020-3-3",
+			"end": "2020-4-25"
+		},
+		"name": {
+			"es": "Chuletón",
+			"en": "Steak",
+			"de": "Steak",
+			"it": "Bistecca",
+			"fr": "Steak"
+		}
+	},
+	{
+		"image": "cochinilloJornada.png",
+		"date": {
+			"init": "2020-9-22",
+			"end": "2020-10-28"
+		},
+		"name": {
+			"es": "Cochinillo",
+			"en": "Piglet",
+			"de": "Ferkel",
+			"it": "Bistecca",
+			"fr": "Porcellino"
+		}
+	},
+	{
+		"image": "belenJornada.png",
+		"date": {
+			"init": "2020-11-22",
+			"end": "2020-12-31"
+		},
+		"name": {
+			"es": "Belén",
+			"en": "Pigle",
+			"de": "Bethlehm",
+			"it": "Betlemme",
+			"fr": "Bethlée"
+		}
+	}
+]
