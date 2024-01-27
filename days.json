@@ -14,6 +14,20 @@
 		}
 	},
 	{
+		"image": "jornada_cordero.jpg",
+		"date": {
+			"init": "2024-1-27",
+			"end": "2020-3-3"
+		},
+		"name": {
+			"es": "Lechazo",
+			"en": "Suckling Lamb",
+			"de": "Spanferkel-Lamm",
+			"it": "Agnello da latte",
+			"fr": "Agneau de lait"
+		}
+	},
+	{
 		"image": "cocidoJornada.png",
 		"date": {
 			"init": "2020-8-11",
