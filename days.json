@@ -28,6 +28,20 @@
 		}
 	},
 	{
+		"image": "jornadaArroz.jpg",
+		"date": {
+			"init": "2024-3-9",
+			"end": "2024-3-24"
+		},
+		"name": {
+			"es": "Arroz",
+			"en": "Rice",
+			"de": "Reis",
+			"it": "Riso",
+			"fr": "Riz"
+		}
+	},
+	{
 		"image": "cocidoJornada.png",
 		"date": {
 			"init": "2020-8-11",
